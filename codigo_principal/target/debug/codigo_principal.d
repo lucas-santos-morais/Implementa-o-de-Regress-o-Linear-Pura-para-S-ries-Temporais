@@ -1,0 +1,1 @@
+/workspaces/Implementa-o-de-Regress-o-Linear-Pura-para-S-ries-Temporais/codigo_principal/target/debug/codigo_principal: /workspaces/Implementa-o-de-Regress-o-Linear-Pura-para-S-ries-Temporais/codigo_principal/src/main.rs
